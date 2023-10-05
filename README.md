@@ -1,6 +1,7 @@
 # Grayscale-using-OpenCv
 Grayscale of an image is done to convert images to shades of gray.It is done to simplify the algorithm and it helps to reduce the computational requirements.
 Here is an example of the grayscale of an image:-
+
 ORIGINAL IMAGE
 -
 ![1](https://github.com/Ja-10/Grayscale-using-OpenCv/assets/147098779/ca57e2d5-3fd5-4dca-96d3-cf16304e5b3a)
