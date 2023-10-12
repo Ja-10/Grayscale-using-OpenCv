@@ -1,6 +1,6 @@
 import cv2
 #load input image
-image = cv2.imread('/Users/joshna/Documents/image.jpeg')
+image = cv2.imread('/Users/j/Documents/image.jpeg')
 cv2.imshow('Original Image', image)
 cv2.waitKey(0)
 #convert input image to grayscale image
